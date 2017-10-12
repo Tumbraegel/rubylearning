@@ -1,7 +1,6 @@
-#WS2014 add === and case
 
 #http://ruby-doc.org/core-2.1.3/Object.html  --> search for "equality"
-#== and equals() are handled differently in Ruby. Use == when you want to test 
+#== and equals() are handled differently in Ruby. Use == when you want to test
 #equivalence in Ruby (equals() is Java). Use equal?() when you want to know if
 #two objects are the same (== in Java).
 #source: https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/
@@ -30,4 +29,3 @@ describe "Ruby Comparision Operators" do
     end
   end
 end
-
